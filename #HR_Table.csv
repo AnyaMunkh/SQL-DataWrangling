@@ -1,0 +1,41 @@
+employee_id,full_name,hire_date,salary,department_name,job_title,postal_code,country_id,country_name,region_name
+100,Steven King,6/17/87,24000,Executive,President,98199,US,United States of America,Americas
+101,Neena Kochhar,9/21/89,17000,Executive,Administration Vice President,98199,US,United States of America,Americas
+102,Lex De Haan,1/13/93,17000,Executive,Administration Vice President,98199,US,United States of America,Americas
+103,Alexander Hunold,1/3/90,9000,IT,Programmer,26192,US,United States of America,Americas
+104,Bruce Ernst,5/21/91,6000,IT,Programmer,26192,US,United States of America,Americas
+105,David Austin,6/25/97,4800,IT,Programmer,26192,US,United States of America,Americas
+106,Valli Pataballa,2/5/98,4800,IT,Programmer,26192,US,United States of America,Americas
+107,Diana Lorentz,2/7/99,4200,IT,Programmer,26192,US,United States of America,Americas
+108,Nancy Greenberg,8/17/94,12000,Finance,Finance Manager,98199,US,United States of America,Americas
+109,Daniel Faviet,8/16/94,9000,Finance,Accountant,98199,US,United States of America,Americas
+110,John Chen,9/28/97,8200,Finance,Accountant,98199,US,United States of America,Americas
+111,Ismael Sciarra,9/30/97,7700,Finance,Accountant,98199,US,United States of America,Americas
+112,Jose Manuel Urman,3/7/98,7800,Finance,Accountant,98199,US,United States of America,Americas
+113,Luis Popp,12/7/99,6900,Finance,Accountant,98199,US,United States of America,Americas
+114,Den Raphaely,12/7/94,11000,Purchasing,Purchasing Manager,98199,US,United States of America,Americas
+115,Alexander Khoo,5/18/95,3100,Purchasing,Purchasing Clerk,98199,US,United States of America,Americas
+116,Shelli Baida,12/24/97,2900,Purchasing,Purchasing Clerk,98199,US,United States of America,Americas
+117,Sigal Tobias,7/24/97,2800,Purchasing,Purchasing Clerk,98199,US,United States of America,Americas
+118,Guy Himuro,11/15/98,2600,Purchasing,Purchasing Clerk,98199,US,United States of America,Americas
+119,Karen Colmenares,8/10/99,2500,Purchasing,Purchasing Clerk,98199,US,United States of America,Americas
+120,Matthew Weiss,7/18/96,8000,Shipping,Stock Manager,99236,US,United States of America,Americas
+121,Adam Fripp,4/10/97,8200,Shipping,Stock Manager,99236,US,United States of America,Americas
+122,Payam Kaufling,5/1/95,7900,Shipping,Stock Manager,99236,US,United States of America,Americas
+123,Shanta Vollman,10/10/97,6500,Shipping,Stock Manager,99236,US,United States of America,Americas
+126,Irene Mikkilineni,9/28/98,2700,Shipping,Stock Clerk,99236,US,United States of America,Americas
+145,John Russell,10/1/96,14000,Sales,Sales Manager,OX9 9ZB,UK,United Kingdom,Europe
+146,Karen Partners,1/5/97,13500,Sales,Sales Manager,OX9 9ZB,UK,United Kingdom,Europe
+176,Jonathon Taylor,3/24/98,8600,Sales,Sales Representative,OX9 9ZB,UK,United Kingdom,Europe
+177,Jack Livingston,4/23/98,8400,Sales,Sales Representative,OX9 9ZB,UK,United Kingdom,Europe
+178,Kimberely Grant,5/24/99,7000,Sales,Sales Representative,OX9 9ZB,UK,United Kingdom,Europe
+179,Charles Johnson,1/4/00,6200,Sales,Sales Representative,OX9 9ZB,UK,United Kingdom,Europe
+192,Sarah Bell,2/4/96,4000,Shipping,Shipping Clerk,99236,US,United States of America,Americas
+193,Britney Everett,3/3/97,3900,Shipping,Shipping Clerk,99236,US,United States of America,Americas
+200,Jennifer Whalen,9/17/87,4400,Administration,Administration Assistant,98199,US,United States of America,Americas
+201,Michael Hartstein,2/17/96,13000,Marketing,Marketing Manager,M5V 2L7,CA,Canada,Americas
+202,Pat Fay,8/17/97,6000,Marketing,Marketing Representative,M5V 2L7,CA,Canada,Americas
+203,Susan Mavris,6/7/94,6500,Human Resources,Human Resources Representative,NULL,UK,United Kingdom,Europe
+204,Hermann Baer,6/7/94,10000,Public Relations,Public Relations Representative,80925,DE,Germany,Europe
+205,Shelley Higgins,6/7/94,12000,Accounting,Accounting Manager,98199,US,United States of America,Americas
+206,William Gietz,6/7/94,8300,Accounting,Public Accountant,98199,US,United States of America,Americas
