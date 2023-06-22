@@ -1,7 +1,11 @@
 # SQL-DataWrangling
 
-#### In this project, I solved different kinds of questions after extracting the data from 7 different tables using JOIN and Temporary table. 
-#### This project is aimed to showcase my ability query on SQL for any desired result of data from the database.
+#### In this project i aimed to showcase my ability to use SQL on extracting data using JOIN and Common table expressions, and solving difficult questions afterwards . 
+
+##### Key highlights of the project include:
+- Extracted data from 7 different table using JOIN and CTE table. 
+- Employed window function, sub query and aggregation function to get the desired result for the questions. 
+
 
 
 
