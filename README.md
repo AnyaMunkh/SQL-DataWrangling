@@ -4,7 +4,7 @@
 
 ##### Key highlights of the project include:
 - Extracted data from 7 different table using JOIN and CTE table. 
-- Employed window function, sub query and aggregation function to get the desired result for the questions. 
+- Employed window function, subquery and aggregation function to get the desired result for the questions. 
 
 
 
