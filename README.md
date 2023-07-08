@@ -1,6 +1,6 @@
 # SQL-DataWrangling
 
-#### In this project i aimed to showcase my ability to use SQL on extracting data using JOIN and Common table expressions, and solving difficult questions afterwards . 
+#### In this project i aimed to showcase my ability to use SQL on extracting data using JOIN and Common Table Expressions, and solving difficult questions afterwards . 
 
 ##### Key highlights of the project include:
 - Extracted data from 7 different table using JOIN and CTE table. 
